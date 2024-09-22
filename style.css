@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 63px;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+p{
+    font-size: 21px;
+}
+
+.carousel-caption h5{
+    font-size: 70px;
+    text-shadow: 2px 2px 2px black;
+}
